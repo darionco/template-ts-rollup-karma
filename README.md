@@ -1,1 +1,3 @@
-template-ts-rollup-karma
+## template-ts-rollup-karma
+
+![CI](../workflows/CI/badge.svg)
